@@ -1,0 +1,11 @@
+  {
+     "name": "USDt",
+     "type": "TRC20",
+     "symbol": "USDt",
+     "decimals": 6,
+     "website": "https://yourwebsite.com",
+     "description": "This is a test token created for our testing and releasing part.",
+     "explorer": "https://tronscan.org/#/token20/TAJZzH6nw2FphRzgGMxS1Sh78Dg71Pu4i2",
+     "status": "active",
+     "id": "TAJZzH6nw2FphRzgGMxS1Sh78Dg71Pu4i2"
+   }
